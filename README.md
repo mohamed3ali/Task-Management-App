@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the backend API for a task management application built with **NestJS** and **MongoDB**. It provides authentication, task management, and LinkedIn profile scraping using Puppeteer.
+This is the backend API for a task management application built with **NestJS** and **MongoDB**. It provides authentication, task management, and LinkedIn profile scraping using playwright.
 
 ## Technologies
 
