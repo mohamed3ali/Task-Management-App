@@ -9,5 +9,5 @@ This is the backend API for a task management application built with **NestJS** 
 - **NestJS 8**
 - **MongoDB 5+**
 - **TypeScript 4**
-- **Puppeteer**
+- **playwright**
 - **JWT Authentication**
